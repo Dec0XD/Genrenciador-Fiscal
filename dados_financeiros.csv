@@ -1,0 +1,8 @@
+id,tipo,valor,data,categoria,descricao,origem,nota_path
+1,despesa,0.0,13/07/2016,geral,Importado via nota,nota,image.png
+2,despesa,0.0,13/07/2016,geral,Importado via nota,nota,image.png
+3,receita,1500.00,15/07/2016,salario,Salário mensal,empresa,salario_julho.pdf
+4,despesa,200.50,16/07/2016,alimentacao,Almoço em restaurante,cartao,nota_fiscal_almoco.jpg
+5,despesa,75.00,17/07/2016,transporte,Uber para reunião,cartao,recibo_uber.pdf
+6,receita,300.00,18/07/2016,freelance,Projeto freelance,transferencia,comprovante_freela.png
+7,despesa,120.00,19/07/2016,educacao,Compra de livros,debito,nota_livros.jpg
