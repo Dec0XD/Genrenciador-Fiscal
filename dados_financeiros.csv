@@ -1,8 +1,24 @@
 id,tipo,valor,data,categoria,descricao,origem,nota_path
-1,despesa,0.0,13/07/2016,geral,Importado via nota,nota,image.png
-2,despesa,0.0,13/07/2016,geral,Importado via nota,nota,image.png
-3,receita,1500.00,15/07/2016,salario,Salário mensal,empresa,salario_julho.pdf
-4,despesa,200.50,16/07/2016,alimentacao,Almoço em restaurante,cartao,nota_fiscal_almoco.jpg
-5,despesa,75.00,17/07/2016,transporte,Uber para reunião,cartao,recibo_uber.pdf
-6,receita,300.00,18/07/2016,freelance,Projeto freelance,transferencia,comprovante_freela.png
-7,despesa,120.00,19/07/2016,educacao,Compra de livros,debito,nota_livros.jpg
+1,despesa,0.0,13/07/2016,geral,Importado via nota,nota,tela-danfe1.png
+2,despesa,0.0,13/07/2016,geral,Importado via nota,nota,tela-danfe1.png
+3,despesa,0.0,00/00/0000,geral,Importado via nota,nota,image.png
+4,despesa,0.0,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpfxwxl_gv.png
+5,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmphvqm30yn.png
+6,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpk3hunq3g.png
+7,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpitbfvomf.png
+8,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpguk8kazb.png
+9,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmp9wqv_lc6.png
+10,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpfy8_om24.png
+11,despesa,21154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpaz21rfu_.png
+12,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpkovtif6c.png
+13,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpnu85utfx.png
+14,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmp7jokab3b.png
+15,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmp6ivndkno.png
+16,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpqlrnbmb_.png
+17,despesa,0.0,20/10/2025,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmp2q85bjhh.png
+18,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpw1vhe4pe.png
+19,despesa,0.0,20/10/2025,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpvkcgejub.png
+20,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmplxryitma.png
+21,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpnt7x0oa5.png
+22,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpb_ipp0t1.png
+23,despesa,154.31,13/07/2016,geral,Importado via nota,nota,C:\Users\andre\AppData\Local\Temp\tmpv6vgsgf_.png
